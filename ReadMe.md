@@ -7,7 +7,7 @@ I'm currently working on a endpoint web application for secure transfer of data 
 
 # 💻 Tech Stack:
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=arduino,babel,bash,blender,cmake,express,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,graphql,heroku,html,idea,js,jenkins,jest,jquery,matlab,mongodb,mysql,nestjs,netlify,nginx,nodejs,postman,powershell,py,raspberrypi,react,redux,redis,sass,stackoverflow,styledcomponents,supabase,scala,tailwind,ts,vercel,vscode,webpack"/>
+   <img src="https://skillicons.dev/icons?i=css,html,js,c,cpp,arch,aws,bash,debian,django,docker,express,figma,firebase,flask,git,github,gmail,graphql,kali,mongodb,mysql,netlify,nginx,nodejs,postgres,postmen,powershell,pug,react,redux,stackoverflow,sklearn,,solidity,svg,ts,ubuntu,vercel,vscode"/>
 </p>
 <br>
 
