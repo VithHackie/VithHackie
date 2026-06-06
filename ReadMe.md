@@ -7,7 +7,7 @@ I'm currently working on a endpoint web application for secure transfer of data 
 
 # 💻 Tech Stack:
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=css,html,js,c,cpp,arch,aws,bash,debian,django,docker,express,figma,firebase,flask,git,github,gmail,graphql,kali,mongodb,mysql,netlify,nginx,nodejs,postgres,postmen,powershell,pug,react,redux,stackoverflow,sklearn,,solidity,svg,ts,ubuntu,vercel,vscode"/>
+   <img src="https://skillicons.dev/icons?i=css,html,js,c,cpp,arch,aws,bash,debian,django,docker,express,figma,firebase,flask,git,github,gmail,graphql,kali,mongodb,mysql,netlify,nginx,nodejs,postgres,postman,powershell,pug,react,redux,stackoverflow,sklearn,solidity,svg,ts,ubuntu,vercel,vscode"/>
 </p>
 <br>
 
@@ -26,4 +26,14 @@ I'm currently working on a endpoint web application for secure transfer of data 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0; vertical-align: middle;">
+      <h6 style="margin: 0;">Visitors Count</h6>
+    </td>
+    <td style="border: none; padding: 0 0 0 10px; vertical-align: middle;">
+      <img src="https://gzb-services.onrender.com/open/visitor-badge" width="100px" height="100px">
+    </td>
+  </tr>
+</table>
