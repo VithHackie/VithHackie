@@ -17,7 +17,9 @@ I'm currently working on a endpoint web application for secure transfer of data 
 <picture>
   <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
+
 # 📊 GitHub Stats:
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VithHackie&theme=github_dark" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VithHackie&theme=github_dark" width="32%"/>
