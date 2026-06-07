@@ -21,6 +21,12 @@ I'm currently working on a endpoint web application for secure transfer of data 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VithHackie&theme=tokyonight&hide_border=true&font=JetBrains+Mono" width="65%" />
 </div>
+<div align="center">
+   <img src="./assets/animated-driver.gif"/>
+</div>
+
+![Vith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VithHackie&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
