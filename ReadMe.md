@@ -23,7 +23,7 @@ I'm currently working on a endpoint web application for secure transfer of data 
 </div>
 
 <picture>
-  <img src="https://github.com/VithHackie/VithHackie/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
+  <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
 
 
