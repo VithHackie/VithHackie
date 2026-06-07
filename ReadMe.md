@@ -34,6 +34,13 @@ I'm currently working on a endpoint web application for secure transfer of data 
   <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkzNXQzdzEzcXNnMDQwMDc4ZGE2N3A4cmR0MXA5MnU5emFyZzR6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UWJUQMkD76kf2aWpeo/giphy.gif"></img>
+</div>
+
+<picture>
+  <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
+</picture>
 
 ![Vith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VithHackie&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
@@ -63,3 +70,4 @@ I'm currently working on a endpoint web application for secure transfer of data 
 <picture>
   <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
+
