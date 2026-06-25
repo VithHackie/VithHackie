@@ -58,17 +58,11 @@ I'm currently working on a endpoint web application for secure transfer of data 
 <picture>
   <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0; vertical-align: middle;">
-      <h6 style="margin: 0;">Visitors Count</h6>
-    </td>
-    <td style="border: none; padding: 0 0 0 10px; vertical-align: middle;">
-      <img src="https://gzb-services.onrender.com/open/visitor-badge" width="100px" height="100px">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://buy-me-a-coffee-five.vercel.app/"> 
+    <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/image.png" />
+  </a>
+<div/>
 <picture>
   <img src="https://github.com/VithHackie/VithHackie/blob/main/assets/animated-divider.gif" align="center"  width="100%" alt="Image">
 </picture>
